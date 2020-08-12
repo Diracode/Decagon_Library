@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.decagon</OriginalElement>
+  <nodes>
+    <node x="0.0" y="434.0">com.decagon.Person</node>
+    <node x="254.0" y="434.0">com.decagon.Main</node>
+    <node x="0.0" y="229.0">com.decagon.BookRequest</node>
+    <node x="332.0" y="0.0">com.decagon.BookLog</node>
+    <node x="0.0" y="0.0">com.decagon.Book</node>
+    <node x="266.0" y="229.0">com.decagon.Library</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.6847222222222223" x="309.0" y="339.99999999999994" />
+  <SelectedNodes>
+    <node>com.decagon.Book</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>packageLocal</VISIBILITY>
+</Diagram>
+

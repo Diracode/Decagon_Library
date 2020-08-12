@@ -15,14 +15,9 @@ public class LibraryUtils {
      * Method creates an instance of a book when called
      * then calls the "addBook" method
      * to add the book to a map containing the total books in the Library.
-     * @param name
-     * @param author
-     * @param isbn
-     * @param category
-     * @param quantity
+     * @param book
      */
-    public void createBook(String name, String author, String isbn, Category category, int quantity) {
-        Book book = new Book(name, author, isbn, category, quantity);
+    public void createBook(Book book) {
         addBook(book);
     }
 
